@@ -1,0 +1,63 @@
+body {
+    background-color: #000000;
+    color: White;
+    font-family: sans-serif;
+    font-size: 1.4em;
+    background-image: URL(" ")
+}
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lime;
+}
+
+li {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 29px;
+    text-decoration: none;
+}
+
+li :hover {
+    background-color: #66CC99;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   color: white
+}
+
+h1 {
+    color: white;
+    border: 5px solid Limegreen;
+    border-style: inset;
+    font: sans-serif;
+    text-align: center
+}
+
+img {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper {
+    padding: 1px;
+    font-size: 1.3em;
+    font: sans-serif border: 20px solid rgba(0, 0, 0, 0);
+}
+
+#homepage {
+    background-color: lime;
+    color: Black;
+    padding: 4%;
+}
+
+<div id="homepage" > Home Page</div

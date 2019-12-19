@@ -1,0 +1,60 @@
+Body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+H1 {
+    border-color: limegreen;
+    border-style: inset;
+}
+
+H2 {
+    color: white;
+    text-align-last: center
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lime;
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 29px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: #66CC99;
+}
+
+.center {
+    text-align: left;
+    margin: auto;
+    background: lime;
+    display: flex;
+    width: 10%;
+    height: auto;
+}
+
+table {
+    margin: auto;
+    border-color: #669933;
+}
+
+a {
+    background-color: limegreen;
+    transition: background-color .5s;
+}
